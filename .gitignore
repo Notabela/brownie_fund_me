@@ -1,0 +1,8 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+
+// stopped at deploying to persistent ganache 5:36:49
